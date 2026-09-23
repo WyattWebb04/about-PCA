@@ -11,14 +11,20 @@ h3{
     color: rgb(1, 1, 104); 
     font-family: Trebuchet MS
 }
-.contact {
+.sections {
     background-color: rgb(255, 227, 168);
-    padding: 10px;
+    padding: 5px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border :3px solid black;
     border-color: black;
     max-width: 500px;
 }
 body {
     background-color: rgb(255, 237, 205);
+    margin: 40px;
+}
+#teamlogo{
+    background-color: white;
+    border: 3px solid black;
+    padding: 5px;
 }
